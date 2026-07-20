@@ -10,12 +10,19 @@ I build production GenAI pipelines. Currently pioneering AI-first content produc
 
 _This portfolio is being rebuilt in the open — new repos land monthly._
 
-- 🛠️ **llm-gateway** — self-hosted LLM proxy: multi-provider routing, streaming, cache, quotas, cost tracking _(coming soon)_
-- 📦 **gen-jobs** — distributed job queue for GenAI workloads on Kubernetes _(coming soon)_
-- 🎨 **shotloom** — one product image → consistent multi-angle shot set _(coming soon)_
-- 🔌 **mcp-server-collection** — three useful MCP servers _(coming soon)_
-- ☸️ **genai-stack-k8s** — Helm charts to deploy the whole stack _(coming soon)_
-- 🔍 **ragstack** — full-stack RAG with hybrid search, reranker, evals _(coming soon)_
+### Shipped
+
+- ⚡ [**throttlepy**](https://github.com/gunasekharpaidi/throttlepy) — token bucket + sliding window rate limiting; in-memory or Redis-backed (atomic Lua); sync + async
+- 🧰 [**starter-template-py**](https://github.com/gunasekharpaidi/starter-template-py) — opinionated FastAPI + uv + ruff + mypy + pytest scaffold
+
+### In progress
+
+- 🛠️ **llm-gateway** — self-hosted LLM proxy: multi-provider routing, streaming, cache, quotas, cost tracking
+- 📦 **gen-jobs** — distributed job queue for GenAI workloads on Kubernetes
+- 🎨 **shotloom** — one product image → consistent multi-angle shot set
+- 🔌 **mcp-server-collection** — three useful MCP servers
+- ☸️ **genai-stack-k8s** — Helm charts to deploy the whole stack
+- 🔍 **ragstack** — full-stack RAG with hybrid search, reranker, evals
 
 ## Stack
 
