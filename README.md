@@ -12,7 +12,8 @@ _This portfolio is being rebuilt in the open — new repos land monthly._
 
 ### Shipped
 
-- ⚡ [**throttlepy**](https://github.com/gunasekharpaidi/throttlepy) — token bucket + sliding window rate limiting; in-memory or Redis-backed (atomic Lua); sync + async
+- ⚡ [**throttlepy**](https://github.com/gunasekharpaidi/throttlepy) — token bucket + sliding window rate limiting; in-memory or Redis-backed (atomic Lua); sync + async. On [PyPI](https://pypi.org/project/throttlepy/).
+- 🤖 [**agent-lab**](https://github.com/gunasekharpaidi/agent-lab) — three Claude agent patterns from primitives (ReAct, Plan-and-Execute, Multi-Agent Handoff). No framework dependencies.
 - 🧰 [**starter-template-py**](https://github.com/gunasekharpaidi/starter-template-py) — opinionated FastAPI + uv + ruff + mypy + pytest scaffold
 
 ### In progress
