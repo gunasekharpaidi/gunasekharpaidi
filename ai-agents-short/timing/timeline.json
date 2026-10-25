@@ -1,0 +1,406 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "duration": 60.0,
+  "scenes": [
+    {
+      "index": 1,
+      "beat": "Your job is done while you sleep",
+      "image": "assets/images/01_sleep_hook.png",
+      "start": 0.0,
+      "end": 6.0,
+      "frames": [
+        0,
+        179
+      ],
+      "transition_in": null,
+      "on_screen_text": [
+        {
+          "text": "YOUR JOB",
+          "appears_at": 0.04
+        },
+        {
+          "text": "IS DONE",
+          "appears_at": 0.8
+        },
+        {
+          "text": "WHILE YOU",
+          "appears_at": 1.55
+        },
+        {
+          "text": "SLEEP.",
+          "appears_at": 2.2
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "beat": "Work tasks are multiplying",
+      "image": "assets/images/02_desk_tasks.png",
+      "start": 6.0,
+      "end": 12.0,
+      "frames": [
+        180,
+        359
+      ],
+      "transition_in": {
+        "type": "cut",
+        "dur": 0.0
+      },
+      "on_screen_text": [
+        {
+          "text": "WORK TASKS ARE",
+          "appears_at": 6.05
+        },
+        {
+          "text": "MULTIPLYING.",
+          "appears_at": 6.3
+        },
+        {
+          "text": "EMAILS",
+          "appears_at": 6.15
+        },
+        {
+          "text": "MEETINGS",
+          "appears_at": 6.6
+        },
+        {
+          "text": "REPORTS",
+          "appears_at": 7.05
+        },
+        {
+          "text": "FOLLOW-UPS",
+          "appears_at": 7.5
+        },
+        {
+          "text": "TO-DO LIST: {n}",
+          "appears_at": 9.0
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "beat": "Meet the AI agent",
+      "image": "assets/images/03_ai_agent_loop.png",
+      "start": 12.0,
+      "end": 19.0,
+      "frames": [
+        360,
+        569
+      ],
+      "transition_in": {
+        "type": "tear",
+        "dir": "up",
+        "dur": 0.55,
+        "slide": 150
+      },
+      "on_screen_text": [
+        {
+          "text": "MEET THE",
+          "appears_at": 12.35
+        },
+        {
+          "text": "AI AGENT.",
+          "appears_at": 12.75
+        },
+        {
+          "text": "01  READS YOUR INBOX",
+          "appears_at": 13.7
+        },
+        {
+          "text": "02  BOOKS THE MEETING",
+          "appears_at": 14.7
+        },
+        {
+          "text": "03  WRITES THE REPORT",
+          "appears_at": 15.7
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "beat": "Before AI: paperwork overload",
+      "image": "assets/images/04_paper_tower.png",
+      "start": 19.0,
+      "end": 25.0,
+      "frames": [
+        570,
+        749
+      ],
+      "transition_in": {
+        "type": "tear",
+        "dir": "left",
+        "dur": 0.55,
+        "slide": 160
+      },
+      "on_screen_text": [
+        {
+          "text": "BEFORE AI:",
+          "appears_at": 19.35
+        },
+        {
+          "text": "PAPERWORK",
+          "appears_at": 19.6
+        },
+        {
+          "text": "OVERLOAD.",
+          "appears_at": 19.95
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "beat": "The catch: AI can make mistakes",
+      "image": "assets/images/05_warning_mistakes.png",
+      "start": 25.0,
+      "end": 31.5,
+      "frames": [
+        750,
+        944
+      ],
+      "transition_in": {
+        "type": "cut",
+        "dur": 0.0
+      },
+      "on_screen_text": [
+        {
+          "text": "THE CATCH:",
+          "appears_at": 25.1
+        },
+        {
+          "text": "AI CAN MAKE",
+          "appears_at": 25.35
+        },
+        {
+          "text": "MISTAKES.",
+          "appears_at": 25.7
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "beat": "Will AI take your job?",
+      "image": "assets/images/06_question_job.png",
+      "start": 31.5,
+      "end": 38.0,
+      "frames": [
+        945,
+        1139
+      ],
+      "transition_in": {
+        "type": "tear",
+        "dir": "diag",
+        "dur": 0.6,
+        "slide": 140
+      },
+      "on_screen_text": [
+        {
+          "text": "WILL",
+          "appears_at": 31.95
+        },
+        {
+          "text": "AI TAKE",
+          "appears_at": 32.35
+        },
+        {
+          "text": "YOUR",
+          "appears_at": 32.75
+        },
+        {
+          "text": "JOB?",
+          "appears_at": 33.2
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "beat": "Humans still bring judgment and creativity",
+      "image": "assets/images/07_human_creativity.png",
+      "start": 38.0,
+      "end": 45.0,
+      "frames": [
+        1140,
+        1349
+      ],
+      "transition_in": {
+        "type": "tear",
+        "dir": "up",
+        "dur": 0.55,
+        "slide": 150
+      },
+      "on_screen_text": [
+        {
+          "text": "HUMANS STILL BRING",
+          "appears_at": 38.35
+        },
+        {
+          "text": "JUDGMENT",
+          "appears_at": 38.75
+        },
+        {
+          "text": "+ CREATIVITY.",
+          "appears_at": 39.25
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "beat": "Learn. Adapt. Create.",
+      "image": "assets/images/08_learn_adapt_create.png",
+      "start": 45.0,
+      "end": 51.8,
+      "frames": [
+        1350,
+        1553
+      ],
+      "transition_in": {
+        "type": "tear",
+        "dir": "left",
+        "dur": 0.55,
+        "slide": 160
+      },
+      "on_screen_text": [
+        {
+          "text": "LEARN.",
+          "appears_at": 45.45
+        },
+        {
+          "text": "ADAPT.",
+          "appears_at": 46.25
+        },
+        {
+          "text": "CREATE.",
+          "appears_at": 47.05
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "beat": "Would you trust AI with your job?",
+      "image": "assets/images/09_final_bubble.png",
+      "start": 51.8,
+      "end": 60.0,
+      "frames": [
+        1554,
+        1799
+      ],
+      "transition_in": {
+        "type": "tear",
+        "dir": "down",
+        "dur": 0.6,
+        "slide": 120
+      },
+      "on_screen_text": [
+        {
+          "text": "WOULD YOU",
+          "appears_at": 53.4
+        },
+        {
+          "text": "TRUST AI",
+          "appears_at": 53.8
+        },
+        {
+          "text": "WITH YOUR",
+          "appears_at": 54.2
+        },
+        {
+          "text": "JOB?",
+          "appears_at": 54.65
+        }
+      ]
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.15,
+      "end": 2.85,
+      "text": "What if your work got done… while you slept?"
+    },
+    {
+      "start": 2.95,
+      "end": 5.85,
+      "text": "That's the promise of AI agents."
+    },
+    {
+      "start": 6.1,
+      "end": 8.9,
+      "text": "Emails. Meetings. Reports. Follow-ups."
+    },
+    {
+      "start": 9.0,
+      "end": 11.7,
+      "text": "Every week, the to-do list multiplies."
+    },
+    {
+      "start": 12.35,
+      "end": 15.4,
+      "text": "An AI agent doesn't just answer questions."
+    },
+    {
+      "start": 15.5,
+      "end": 18.75,
+      "text": "It plans, acts and follows through — on its own."
+    },
+    {
+      "start": 19.3,
+      "end": 22.0,
+      "text": "Before AI, every task landed on one desk."
+    },
+    {
+      "start": 22.1,
+      "end": 24.8,
+      "text": "Yours. Hours of copying, filing and chasing."
+    },
+    {
+      "start": 25.15,
+      "end": 28.2,
+      "text": "But here's the catch: AI agents make mistakes."
+    },
+    {
+      "start": 28.3,
+      "end": 31.2,
+      "text": "Wrong numbers, confident tone. Always check the work."
+    },
+    {
+      "start": 31.85,
+      "end": 34.6,
+      "text": "So… will AI take your job?"
+    },
+    {
+      "start": 34.7,
+      "end": 37.75,
+      "text": "It will take tasks. That's not the same thing."
+    },
+    {
+      "start": 38.3,
+      "end": 41.4,
+      "text": "AI can draft. But judgment, taste and creativity"
+    },
+    {
+      "start": 41.5,
+      "end": 44.75,
+      "text": "still come from people. From you."
+    },
+    {
+      "start": 45.3,
+      "end": 48.4,
+      "text": "The people who thrive will learn the tools,"
+    },
+    {
+      "start": 48.5,
+      "end": 51.5,
+      "text": "adapt fast, and create more than ever."
+    },
+    {
+      "start": 53.4,
+      "end": 56.4,
+      "text": "Would you trust AI with your job?"
+    },
+    {
+      "start": 56.5,
+      "end": 59.8,
+      "text": "Yes or no — tell me in the comments."
+    }
+  ]
+}
